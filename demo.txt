@@ -1,1 +1,2 @@
 this is added content from master branch
+this is the content from conflict branch
